@@ -9,4 +9,4 @@ returns
 
 > {"temp":2.3}
 
-Note: you'll need to perform a 'chmod 7555 ./wrap' in order to be able to execute the wrap CLI as above'
+Note: you'll need to perform a 'chmod 7555 ./wrap' in order to be able to execute the wrap CLI as above
